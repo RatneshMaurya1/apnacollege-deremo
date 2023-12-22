@@ -1,2 +1,3 @@
-# apnacollege-deremo
-this is mu repository
+# apnacollege-demo
+this is my git repository
+Author - Ratnesh Maurya
